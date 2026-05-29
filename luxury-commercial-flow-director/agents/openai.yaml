@@ -1,0 +1,3 @@
+display_name: Luxury Commercial Flow Director
+short_description: Convert storyboards into luxury Google Flow/Veo commercial workflows.
+default_prompt: Analyze uploaded storyboard and product references, then generate a complete Chinese Google Flow/Veo workflow with agent instructions, product lock, character consistency, camera motion, editing rhythm, transitions, and shot-by-shot prompts.
