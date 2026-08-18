@@ -1,0 +1,7 @@
+interface:
+  display_name: "商品短视频制片 Agent"
+  short_description: "从产品素材生成完整分镜、视觉画面、视频提示词与平台发布文案"
+  default_prompt: "Use $product-short-video-producer to turn my product references into a complete short-video production package."
+
+policy:
+  allow_implicit_invocation: true
