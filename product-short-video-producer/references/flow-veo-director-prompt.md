@@ -6,6 +6,8 @@
 
 运镜匹配：建立镜头用 slow push-in/gentle dolly；产品微距用 macro push-in/controlled rack focus；使用动作用 soft tracking/close follow；桌面用 subtle lateral slide；液体用 slow close tracking 和自然流体物理；英雄镜头用 locked premium framing、very slow orbit 或 elegant push-in；生活方式用 handheld micro movement。
 
+保留静态分镜中的景别和产品角色，不要在图生视频阶段把环境镜头自动推进成产品特写。环境建立镜头优先使用缓慢横移、轻微升降或固定机位环境微动；产品为配角时保持其在场景中的相对尺度和偏心构图。相邻镜头避免连续 slow push-in，九镜头至少覆盖建立、观察、跟随、微距和锁定英雄五类相机状态。
+
 ```text
 No product morphing, label drift, logo changes, object duplication, floating objects, rubbery hands, unstable anatomy, impossible liquid physics, sudden speed changes, aggressive zooms, chaotic handheld motion, synthetic drone motion, fake HDR, text overlays, subtitles, or watermark.
 ```
